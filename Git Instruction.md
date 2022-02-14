@@ -31,3 +31,4 @@
 
 * git checkout master - wsitch to branch "master"
 
+![Images types](SH01.png)
