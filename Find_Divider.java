@@ -1,5 +1,3 @@
-package gb.base;
-
 import java.util.Scanner;
 
 public class Find_Divider {

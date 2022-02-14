@@ -1,4 +1,4 @@
-# Инструкция по начальном командам в Git
+# Инструкция по начальным командам в Git
 * list
 * list 2
 
@@ -21,13 +21,13 @@
 
 * git add --all - add all files in repository folder into Git.
 
-*git add *.md - add all files with md extension.
+* git add *.md - add all files with md extension.
 
 * git commit - commit changes of added files.
 
 * git log - show log of committed files with commit hash.
 
-*git checkout **first 4 digits of hash num** - switch to commit with entered hash num.
+* git checkout **first 4 digits of hash num** - switch to commit with entered hash num.
 
 * git checkout master - wsitch to branch "master"
 
